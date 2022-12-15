@@ -23,7 +23,7 @@ namespace RestaurantTest
 
             foreach (var restaurant in restaurants)
             {
-               ss Assert.Equal("z", restaurant.Name);
+                Assert.Equal("z", restaurant.Name);
             }
         }
     }
