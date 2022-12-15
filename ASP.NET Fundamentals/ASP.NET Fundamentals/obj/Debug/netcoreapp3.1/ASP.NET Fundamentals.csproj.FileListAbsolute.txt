@@ -133,3 +133,48 @@ C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-m
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.genruntimeconfig.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.exe
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.deps.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.dev.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.AssemblyReference.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfoInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfo.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CoreCompileInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.Manifest.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.xml
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Fundamentals.styles.css
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.input.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.output.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorCoreGenerate.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CopyComplete
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.genruntimeconfig.cache

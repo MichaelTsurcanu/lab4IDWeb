@@ -37,3 +37,16 @@ C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-m
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.csproj.CopyComplete
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.deps.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.csproj.AssemblyReference.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.AssemblyInfoInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.AssemblyInfo.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.csproj.CoreCompileInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.csproj.CopyComplete
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Data\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb

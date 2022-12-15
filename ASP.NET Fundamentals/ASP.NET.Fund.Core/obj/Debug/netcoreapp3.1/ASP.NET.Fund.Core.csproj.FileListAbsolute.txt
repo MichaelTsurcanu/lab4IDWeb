@@ -28,3 +28,13 @@ C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-m
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.csproj.CoreCompileInputs.cache
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
 C:\Users\Misha X\Desktop\ID Web\Laboratoare\Lab 4 id web\application\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.deps.json
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.csproj.AssemblyReference.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.AssemblyInfoInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.AssemblyInfo.cs
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.csproj.CoreCompileInputs.cache
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Program Files\Jenkins\Lab4IDWEB-main\ASP.NET Fundamentals\ASP.NET.Fund.Core\obj\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
