@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sQugXB0UxYE8xsgZFUO9b+hl1UQRdL7bISY+xI4H3cPlOWMLJil2M0Lug9dpkF/zaPDvn/QEIoOOB9NmjZDaaw==",
+  "dgSpecHash": "+/QL3AC0yxrAtUas3ZfQ862laTfSOJ7exfvxyX6+j2f6dXdkn7c1xkKhyQB04Z+GQ+VAhz+KmCiDaMIeyaHyMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
+  "projectFilePath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Misha X\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
     "C:\\Users\\Misha X\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"

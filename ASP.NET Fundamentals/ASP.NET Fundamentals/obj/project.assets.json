@@ -379,11 +379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
+      "projectUniqueName": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
       "projectName": "ASP.NET Fundamentals",
-      "projectPath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
+      "projectPath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
       "packagesPath": "C:\\Users\\Misha X\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\obj\\",
+      "outputPath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -406,8 +406,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Data\\ASP.NET.Fund.Data.csproj": {
-              "projectPath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Data\\ASP.NET.Fund.Data.csproj"
+            "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Data\\ASP.NET.Fund.Data.csproj": {
+              "projectPath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Data\\ASP.NET.Fund.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGWinxVnx+LUFbaxqmVtUMd5sz3lLoF2iM+bw/7UiHvtCGAU9opHVZCuszWuv9zb/ras14+C1vBFYlJFnd3hig==",
+  "dgSpecHash": "NfLQq9OaMFKzC/S9hgVNETUpN3nH2CrITAwGarsarwfmI8no8pcfTndWEFQapYkz5InT1e8sF4pYXLtEFgUOYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Core\\ASP.NET.Fund.Core.csproj",
+  "projectFilePath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\ASP.NET.Fund.Core\\ASP.NET.Fund.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

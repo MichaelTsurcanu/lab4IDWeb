@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dbBytgogPy45orZV2fvAi/RBMb+6/i5jyGNPpE10LRkrXIaQ/XvGyYohyFtChI9eA4JfCokm34LV0eIlaW+vsw==",
+  "dgSpecHash": "i2AQwBwpIeeGAnt6/bu/vmxZnhtQ4q3LK+DBWEIatWUzjZtdmXShXNTZHNGamBe5mkMSwkydMmL+UBrjfAkiBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misha X\\Desktop\\ID Web\\Laboratoare\\Lab 4 id web\\application\\Lab4IDWEB-main\\ASP.NET Fundamentals\\RestaurantTest\\RestaurantTest.csproj",
+  "projectFilePath": "C:\\Program Files\\Jenkins\\Lab4IDWEB-main\\ASP.NET Fundamentals\\RestaurantTest\\RestaurantTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Misha X\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Misha X\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
